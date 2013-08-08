@@ -48,7 +48,7 @@ development:
 test:
     adapter: postgresql
     encoding: unicode
-    database: cccctt_development
+    database: cccctt_test
     pool: 5
     username: postgres
     password: jz07302013
@@ -58,7 +58,7 @@ test:
 production:
    adapter: postgresql
    encoding: unicode
-   database: cccctt_development
+   database: cccctt_production
    pool: 5
    username: postgres
    password: jz07302013

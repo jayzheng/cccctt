@@ -17,7 +17,7 @@
     </data-source>
     <data-source source="LOCAL" name="Rails cccctt: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="80ede4cb-0ba7-4cb6-86dc-3d111b90d9f8">
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/cccctt_development</jdbc-url>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/cccctt_production</jdbc-url>
       <user-name>postgres</user-name>
       <user-password>dfc0dfd0df9adf9ddf99df9adf98df9adf9bdf99</user-password>
       <libraries>
@@ -31,7 +31,7 @@
     </data-source>
     <data-source source="LOCAL" name="Rails cccctt: test" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="07972160-e658-4b20-b219-7105ac09b6ee">
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/cccctt_development</jdbc-url>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/cccctt_test</jdbc-url>
       <user-name>postgres</user-name>
       <user-password>dfc0dfd0df9adf9ddf99df9adf98df9adf9bdf99</user-password>
       <libraries>
